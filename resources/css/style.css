@@ -1,0 +1,42 @@
+/* style.css */
+
+body {
+    background-color: #000;
+    font-family: Verdana;
+    display: flex;
+    flex-direction: column;
+    /* border: red 1px dotted; */
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+    color: #fff;
+    text-align: center;
+    /* border: red 1px dotted; */
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+    /* border: red 1px dotted; */
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+    text-align: center;
+    color: #fff;
+    /* border: yellow 1px dotted; */
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+}
+
+img {
+    margin: 0 3.5rem;
+}
